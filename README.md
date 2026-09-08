@@ -41,6 +41,7 @@ Jenis surat keluar yang tersedia:
 - Surat Keluar Biasa (Surat seperti Surat pemberitahuan, Surat keterangan organisasi, atau Surat Panggilan)
 - Surat Peringatan 
 - Surat Izin
+
 alasan Surat peringatan dan Izin dibuatkan fitur yang berbeda dengan surat keluar biasa adalah karena karena keduanya memiliki fungsi dan kebutuhan pengelolaan yang lebih khusus.
 1. **Surat Peringatan** berkaitan dengan pencatatan dan pengawasan pelanggaran atau perilaku penghuni asrama. surat peringatan ini memiliki status SP1, SP 2, dan SP 3 (dikeluarkan dari asrama).
    Jika semisal salah satu penghuni sudah mendapat Surat Peringatan (SP) 1, maka jika melakukan pelanggaran lagi, maka dikenakan SP 2. Yang dicegah dari program ini adalah adanya kelupaan dalam pencatatan
